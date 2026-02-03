@@ -113,7 +113,7 @@ http://localhost:5173
 - Daily streak tracking 🔥
 - Weekly and monthly analytics 📈
 - Dark mode 🌙
-- Backend integration (Django / FastAPI)
+- Backend integration
 - Real authentication with JWT
 - Cloud database storage
 
