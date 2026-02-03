@@ -1,0 +1,31 @@
+:root {
+  --bg: #f7f6f3;
+  --card: #ffffff;
+  --text: #2f3437;
+  --muted: #6b7280;
+  --blue: #4f9cf9;
+  --green: #16a34a;
+  --red: #dc2626;
+  --orange: #f97316;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Inter, system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+
+.navbar {
+  background: var(--card);
+  padding: 12px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
